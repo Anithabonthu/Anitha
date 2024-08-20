@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Anitha</h1>
-<h3 align="center">I'm a passionate Software Developer with a strong focus on Full-stack Development. I love solving complex problems, building scalable applications, and continuously learning new technologies.</h3>
+<h1 align="center">Hey 👋, I'm Anitha</h1>
+<h3 align="center">I’m final year Computer Science Student at Seshadri Rao Gudlavalleru Engineering College,Gudlavalleru and passionate Software Developer with a strong focus on Full-stack Development. I love solving complex problems, building scalable applications, and continuously learning new technologies.</h3>
 
 - 📫 How to reach me **https://www.linkedin.com/in/bonthu-anitha/**
 
